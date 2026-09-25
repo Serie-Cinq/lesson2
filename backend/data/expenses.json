@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "date": "2025-01-16",
+    "description": "Example expense #1 from Alice",
+    "payer": "Alice",
+    "amount": 25.5
+  },
+  {
+    "id": "2",
+    "date": "2025-01-15",
+    "description": "Example expense #2 from Bob",
+    "payer": "Bob",
+    "amount": 35
+  },
+  {
+    "id": "3",
+    "date": "2025-01-15",
+    "description": "Example expense #3 from Alice",
+    "payer": "Alice",
+    "amount": 2
+  },
+  {
+    "id": "4",
+    "date": "2026-09-18",
+    "description": "New random Expense",
+    "payer": "New random Payer",
+    "amount": 24.531503510751797
+  },
+  {
+    "id": "5",
+    "date": "2026-09-18",
+    "description": "New random Expense",
+    "payer": "New random Payer",
+    "amount": 7.589149335678047
+  },
+  {
+    "id": "6",
+    "date": "2026-09-18",
+    "description": "New random Expense",
+    "payer": "New random Payer",
+    "amount": 69.67034537727332
+  },
+  {
+    "id": "7",
+    "date": "2026-09-18",
+    "description": "New random Expense",
+    "payer": "New random Payer",
+    "amount": 74.92139340271416
+  },
+  {
+    "id": "8",
+    "date": "2026-09-18",
+    "description": "New random Expense",
+    "payer": "New random Payer",
+    "amount": 42.5416493588457
+  },
+  {
+    "id": "9",
+    "date": "2026-09-18",
+    "description": "New random Expense",
+    "payer": "New random Payer",
+    "amount": 29.04248290722016
+  },
+  {
+    "id": "10",
+    "date": "2026-09-18",
+    "description": "New random Expense",
+    "payer": "New random Payer",
+    "amount": 54.29739950423335
+  },
+  {
+    "id": "11",
+    "date": "2026-09-18",
+    "description": "New random Expense",
+    "payer": "New random Payer",
+    "amount": 59.76595041683901
+  },
+  {
+    "id": "12",
+    "date": "2026-09-18",
+    "description": "New random Expense",
+    "payer": "New random Payer",
+    "amount": 10.78051510383884
+  },
+  {
+    "id": "13",
+    "date": "2026-09-18",
+    "description": "New random Expense",
+    "payer": "New random Payer",
+    "amount": 47.89418484804666
+  }
+]
